@@ -84,6 +84,6 @@
 
 ## 项目成员及导师
 
-* 成员: **王浩天 陶昱丞 周昱宏 徐惠东**
+* 成员: **[王浩天](https://github.com/GrizzZ13) , [陶昱丞](https://github.com/tao011110) , [周昱宏](https://github.com/Zhou-Yuhong) , [徐惠东](https://github.com/WilliamX1)**
 * 助教: **原帅**
 * 老师: **沈备军 任锐**
